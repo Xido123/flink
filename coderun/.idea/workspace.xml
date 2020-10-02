@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09350baa-f3e0-4778-a09b-79948fb6b1fc" name="Default Changelist" comment="a">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coderun.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs_err_pid10364.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coderun/META-INF/coderun.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coderun/jvm/MyObj.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coderun/leetcodes/Solution1534.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coderun/leetcodes/Solution938$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coderun/leetcodes/Solution938.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coderun/leetcodes/SolutionOffer17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coderun/redo/tree/brinytrue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/coderun/redo/tree/brinytrue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jvm/MyObj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodes/Solution1534.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodes/Solution938.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcodes/SolutionOffer17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redo/array/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redo/tree/brinytrue.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iBYxIsZ7KcolRFqjtIOfoYFGi3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="hive" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../leetcode/coderun" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.MyObj">
+    <configuration name="Unnamed" type="AntRunConfiguration" nameIsGenerated="true">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.MyObj" />
+      <module name="coderun" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1534" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodes.Solution1534" />
+      <module name="coderun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionOffer17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcodes.SolutionOffer17" />
+      <module name="coderun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="coderun" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Ant Target.Unnamed" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.SolutionOffer17" />
+      <item itemvalue="Application.Solution1534" />
+      <item itemvalue="Application.MyObj" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyObj" />
+        <item itemvalue="Application.Solution1534" />
+        <item itemvalue="Application.SolutionOffer17" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09350baa-f3e0-4778-a09b-79948fb6b1fc" name="Default Changelist" comment="" />
+      <created>1601382696960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601382696960</updated>
+      <workItem from="1601382699953" duration="17705000" />
+      <workItem from="1601459038984" duration="2317000" />
+      <workItem from="1601466516219" duration="2351000" />
+    </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1601474606747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601474606747</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="165" width="1391" height="817" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601467315252">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="406" y="165" width="1391" height="817" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601467315252" />
+    <state x="1135" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1601391249077">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1135" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1601391249077" />
+    <state x="700" y="260" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601382744452">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="700" y="260" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601382744452" />
+    <state x="865" y="208" key="FileChooserDialogImpl" timestamp="1601475017945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="865" y="208" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1601475017945" />
+    <state width="1215" height="300" key="GridCell.Tab.0.bottom" timestamp="1601461616333">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1215" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601461616333" />
+    <state width="1215" height="300" key="GridCell.Tab.0.center" timestamp="1601461616333">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1215" height="300" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601461616333" />
+    <state width="1215" height="300" key="GridCell.Tab.0.left" timestamp="1601461616333">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1215" height="300" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601461616333" />
+    <state width="1215" height="300" key="GridCell.Tab.0.right" timestamp="1601461616333">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1215" height="300" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601461616333" />
+    <state width="1529" height="285" key="GridCell.Tab.1.bottom" timestamp="1601458788557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1529" height="285" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1601458788557" />
+    <state width="1529" height="285" key="GridCell.Tab.1.center" timestamp="1601458788557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1529" height="285" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1601458788557" />
+    <state width="1529" height="285" key="GridCell.Tab.1.left" timestamp="1601458788557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1529" height="285" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1601458788557" />
+    <state width="1529" height="285" key="GridCell.Tab.1.right" timestamp="1601458788557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1529" height="285" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1601458788557" />
+    <state x="527" y="22" key="SettingsEditor" timestamp="1601422852056">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="527" y="22" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1601422852056" />
+    <state x="359" y="121" key="Vcs.Push.Dialog.v2" timestamp="1601394541814">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="359" y="121" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601394541814" />
+    <state x="631" y="409" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601474611630">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="631" y="409" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1601474611630" />
+    <state x="460" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1601422238649">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="460" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1601422238649" />
+  </component>
+</project>

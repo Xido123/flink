@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dadc98b1-0487-4562-8b5c-a4832246d63e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../af/af.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/Combiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/Driver3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/WcDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/WcMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/WcReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/day4/BaseMR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/day4/MaxWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/day4/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/day4/WordMaxJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/juc/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/juc/ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/pa/FilterMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/paichong/Desc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/paichong/Distinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/paichong/MaxWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/paichong/MaxWord2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/paichong/ValueWritable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/wctest/WcDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/wctest/WcMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/java/wctest/WcReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/resources/one.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/scala/wc/StreamWordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/target/classes/wc/StreamWordCount$$anon$2$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/target/classes/wc/StreamWordCount$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/target/classes/wc/StreamWordCount$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/target/classes/wc/StreamWordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/target/classes/wc/WordCount$$anon$2$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/target/classes/wc/WordCount$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/target/classes/wc/WordCount$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/target/classes/wc/WordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../coderun/.idea/coderun.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/first/WcDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/first/WcMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/first/WcReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/second/WcDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/second/WcMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/second/WcReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/wcone-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/wcone-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/logc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/src/main/java/application/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/src/main/java/bean/AppBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/src/main/java/bean/AppDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/src/main/java/bean/AppErrorLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/src/main/java/bean/AppStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shucang/shucang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/spark.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/src/main/java/WcDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/src/main/java/WcMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/src/main/java/WcReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/target/classes/WcDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/target/classes/WcMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/target/classes/WcReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/target/wcone-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/target/wcone-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wcone/wcone.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/src/main/java/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/src/main/scala/wc/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../code/src/main/scala/wc/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/src/main/scala/wc/sc.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coderun/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../coderun/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\IntelliJ IDEA 2020.1.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jZlD9zVTmNPZ58NEhjf3LokjGa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zmlxd\Desktop\xido\note\flink\countip\src\main\java" />
+      <recent name="C:\Users\zmlxd\Desktop\xido\note\flink\countip\src\main\java\second" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dadc98b1-0487-4562-8b5c-a4832246d63e" name="Default Changelist" comment="" />
+      <created>1604019374423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604019374423</updated>
+      <workItem from="1604019375543" duration="5123000" />
+      <workItem from="1604032414111" duration="33000" />
+      <workItem from="1604032473276" duration="2584000" />
+      <workItem from="1604131053147" duration="1295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="603" y="0" key="#Project_Structure" timestamp="1604021918356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1604021918356" />
+    <state x="1063" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1604020623150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1063" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604020623150" />
+    <state x="991" y="342" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604021062984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="991" y="342" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1604021062984" />
+    <state width="1762" height="232" key="GridCell.Tab.0.bottom" timestamp="1604032381489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1762" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604032381489" />
+    <state width="1762" height="232" key="GridCell.Tab.0.center" timestamp="1604032381489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1762" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604032381489" />
+    <state width="1762" height="232" key="GridCell.Tab.0.left" timestamp="1604032381489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1762" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604032381489" />
+    <state width="1762" height="232" key="GridCell.Tab.0.right" timestamp="1604032381489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1762" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604032381489" />
+    <state x="377" y="95" key="SettingsEditor" timestamp="1604130984736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604130984736" />
+    <state x="935" y="314" key="run.anything.popup" timestamp="1604019393802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="935" y="314" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604019393802" />
+  </component>
+</project>

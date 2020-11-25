@@ -20,30 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09350baa-f3e0-4778-a09b-79948fb6b1fc" name="Default Changelist" comment="a">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/coderun.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hs_err_pid10364.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coderun/META-INF/coderun.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coderun/jvm/MyObj.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coderun/leetcodes/Solution1534.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coderun/leetcodes/Solution938$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coderun/leetcodes/Solution938.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coderun/leetcodes/SolutionOffer17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coderun/redo/tree/brinytrue$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/coderun/redo/tree/brinytrue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm/MyObj.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcodes/Solution1534.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcodes/Solution938.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcodes/SolutionOffer17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redo/array/Array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redo/tree/brinytrue.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../af/af.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/resources/one.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code/src/main/scala/wc/StreamWordCount.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/logc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/src/main/java/application/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/src/main/java/bean/AppBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/src/main/java/bean/AppDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/src/main/java/bean/AppErrorLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logc/src/main/java/bean/AppStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shucang/shucang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spark/spark.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../code/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/src/main/java/C.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/src/main/scala/wc/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../code/src/main/scala/wc/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code/src/main/scala/wc/sc.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,10 +81,9 @@
     <property name="DatabaseDriversLRU" value="hive" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../leetcode/coderun" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../code" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.MyObj">
@@ -141,6 +141,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -154,6 +155,7 @@
       <workItem from="1601382699953" duration="17705000" />
       <workItem from="1601459038984" duration="2317000" />
       <workItem from="1601466516219" duration="2351000" />
+      <workItem from="1603073553627" duration="1224000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <created>1601474606747</created>
@@ -166,7 +168,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -198,9 +200,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="700" y="260" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1601382744452" />
-    <state x="865" y="208" key="FileChooserDialogImpl" timestamp="1601475017945">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="865" y="200" key="FileChooserDialogImpl" timestamp="1603078434226">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="865" y="200" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603078434226" />
     <state x="865" y="208" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1601475017945" />
     <state width="1215" height="300" key="GridCell.Tab.0.bottom" timestamp="1601461616333">
       <screen x="0" y="0" width="1920" height="1080" />
